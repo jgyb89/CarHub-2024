@@ -1,0 +1,6 @@
+React
+Next.js
+TypeScript
+Tailwind.js
+Headless UI
+Car Images API
